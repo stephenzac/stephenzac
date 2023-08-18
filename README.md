@@ -1,4 +1,4 @@
-###👋 Hello there! I am a third year student at the University of California, Irvine, pursuing my Bachelor's in Computer Science. 
+### 👋 Hello there! I am a third year student at the University of California, Irvine, pursuing my Bachelor's in Computer Science. 
 ## 
 
 <!--
