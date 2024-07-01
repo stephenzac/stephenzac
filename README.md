@@ -1,4 +1,4 @@
-👋 Hello there! I'm Stephen, a third year student at the University of California, Irvine, pursuing my Bachelor's in Computer Science. 
+👋 Hello there! I'm Stephen, a fourth year student at the University of California, Irvine, pursuing my Bachelor's in Computer Science. 
 
 <!--
 **stephenzac/stephenzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
