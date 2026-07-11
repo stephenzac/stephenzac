@@ -1,4 +1,4 @@
-👋 Hello there! I'm Stephen, a Computer Science graduate the University of California, Irvine. 
+<p align="center">👋 Hello there! I'm Stephen, a Computer Science graduate of the University of California, Irvine.</p>
 
 <!--
 **stephenzac/stephenzac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
