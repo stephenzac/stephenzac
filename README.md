@@ -13,7 +13,7 @@
     </td>
     <td align="center">
       <a href="https://stephenzacarias.com">
-        <img src="https://stephenzacarias.com/api/spotify" alt="Spotify Now Playing" />
+        <img src="https://stephenzacarias.com/api/currently-listening" alt="Spotify Now Playing" />
       </a>
     </td>
   </tr>
